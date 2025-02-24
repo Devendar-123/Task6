@@ -1,0 +1,199 @@
+[
+    {
+        "id":1,
+        "title":"Agra",
+        "img":"/Images/agra.jpg"
+    },
+    {
+        "id":2,
+        "title":"bangalore",
+        "img":"/Images/bangaloore.jpg"
+    },
+    {
+        "id":3,
+        "title":"panther",
+        "img":"/Images/Black panther.jpg"
+    },
+    {
+        "id":4,
+        "title":"cat",
+        "img":"/Images/Cat.jpg"
+    },
+    {
+        "id":5,
+        "title":"cheetah",
+        "img":"/Images/Cheetah.jpg"
+    },
+    {
+        "id":6,
+        "title":"chennai",
+        "img":"/Images/chennai.jpg"
+    },
+    {
+        "id":7,
+        "title":"dear",
+        "img":"/Images/dear.jpg"
+    },
+    {
+        "id":8,
+        "title":"delhi",
+        "img":"/Images/delhi.jpg"
+    },
+    {
+        "id":9,
+        "title":"Eagle",
+        "img":"/Images/Eagle.jpg"
+    },
+    {
+        "id":10,
+        "title":"Elephant",
+        "img":"/Images/Elephant.jpg"
+    },
+    {
+        "id":11,
+        "title":"flower 2",
+        "img":"/Images/flower 2.jpg"
+    },
+    {
+        "id":12,
+        "title":"flower1",
+        "img":"/Images/flower1.jpg"
+    },
+    {
+        "id":13,
+        "title":"goa",
+        "img":"/Images/goa.jpg"
+    },
+    {
+        "id":14,
+        "title":"Humming Bird",
+        "img":"/Images/Humming Bird.jpg"
+    },
+    {
+        "id":15,
+        "title":"jasmine",
+        "img":"/Images/jasmine.jpg"
+    },
+    {
+        "id":16,
+        "title":"kangaroo",
+        "img":"/Images/Kangaroo.jpg"
+    },
+    {
+        "id":17,
+        "title":"kerala",
+        "img":"/Images/kerala.jpg"
+    },
+    {
+        "id":18,
+        "title":"king fisher",
+        "img":"/Images/King Fisher.jpg"
+    },
+    {
+        "id":19,
+        "title":"Kodaikanal",
+        "img":"/Images/Kodaikanal.jpg"
+    },
+    {
+        "id":20,
+        "title":"kolkata",
+        "img":"/Images/kolkata.jpg"
+    },
+    {
+        "id":21,
+        "title":"Ku Ku",
+        "img":"/Images/KU KU.jpg"
+    },
+    {
+        "id":22,
+        "title":"lilly",
+        "img":"/Images/lilly.jpg"
+    },
+    {
+        "id":23,
+        "title":"Lion",
+        "img":"/Images/Lion.jpg"
+    },
+    {
+        "id":24,
+        "title":"lotus",
+        "img":"/Images/lotus.jpg"
+    },
+    {
+        "id":25,
+        "title":"marie gold",
+        "img":"/Images/marie gold.jpg"
+    },
+    {
+        "id":26,
+        "title":"mumbai",
+        "img":"/Images/mumbai.jpg"
+    },
+    {
+        "id":27,
+        "title":"munnar",
+        "img":"/Images/munnar.jpg"
+    },
+    {
+        "id":28,
+        "title":"Parrot",
+        "img":"/Images/Parrot.jpg"
+    },
+    {
+        "id":29,
+        "title":"Peacock",
+        "img":"/Images/Peacock.jpg"
+    },
+    {
+        "id":30,
+        "title":"Rabbit",
+        "img":"/Images/Rabbit.jpg"
+    },
+    {
+        "id":31,
+        "title":"red lilly",
+        "img":"/Images/red lilly.jpg"
+    },
+    {
+        "id":32,
+        "title":"rose",
+        "img":"/Images/Rose.jpg"
+    },
+    {
+        "id":33,
+        "title":"sparrow",
+        "img":"/Images/Sparrow.jpg"
+    },
+    {
+        "id":34,
+        "title":"Tiger",
+        "img":"/Images/Tiger.jpg"
+    },
+    {
+        "id":35,
+        "title":"Squirrel",
+        "img":"/Images/Squirrel.jpg"
+    },
+    {
+        "id":36,
+        "title":"tulip",
+        "img":"/Images/tulip.jpg"
+    },
+    {
+        "id":37,
+        "title":"vulture",
+        "img":"/Images/Vulture.jpg"
+    },
+    {
+        "id":38,
+        "title":"White Parrot",
+        "img":"/Images/White Parrot.jpg"
+    },
+    {
+        "id":39,
+        "title":"white rose",
+        "img":"/Images/white rose.jpg"
+    }
+    
+    
+]
