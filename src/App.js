@@ -1,6 +1,6 @@
 
 // import './App.css';
-import Project from './Components/Project/Project';
+// import Project from './Components/Project/Project';
 // import Appbars from './Components/Tutorial/Appbars';
 // import TutorialMain from './Components/Tutorial/TutorialMain';
 // import MainComponent from './Components/Forms/MainComponent';
@@ -14,21 +14,21 @@ import Project from './Components/Project/Project';
 
 // import Appbar from "./Components/Tutorial/Appbar";
 
-// import FormTutorial from "./Components/Tutorial/FormTutorial";
+import FormTutorial from "./Components/Tutorial/FormTutorial";
 
 function App() {
   return (
     <div className="App">
       {/* <MainComponent/> */}
       {/* <TutorialMain/> */}
-      {/* <FormTutorial/> */}
+      <FormTutorial/>
       {/* <Appbar/> */}
       {/* <Cards/> */}
       {/* <ButtonTutorial/> */}
       {/* <TextfieldTutorial/> */}
       {/* <Forms/> */}
       {/* <Appbars/> */}
-      <Project/>
+      {/* <Project/> */}
 
     </div>
   );
